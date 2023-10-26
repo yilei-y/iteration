@@ -1,0 +1,11 @@
+---
+title: "iteration_and_listcols"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+
+set.seed(1)
+```
